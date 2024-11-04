@@ -2,9 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mintdunno&color=blueviolet) ![Stars](https://img.shields.io/github/stars/mintdunno?style=social) ![Followers](https://img.shields.io/github/followers/mintdunno?style=social)
 
+![Header](https://yourwebsite.com/header-image.png) <!-- You can create a custom header image for more personality -->
+
 ## About Me
 
-Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** passionate about crafting elegant solutions and exploring cutting-edge technologies. I thrive on challenges and love contributing to the tech community.
+Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** with a zest for creating innovative solutions and delving into the latest technologies. I thrive on challenges and am committed to making a positive impact in the tech world.
 
 - 🌱 Currently diving into **[Current Technology]**.
 - 💡 Open to collaborating on **open source projects**.
@@ -13,7 +15,7 @@ Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** pa
 
 ## Skills & Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
@@ -39,8 +41,10 @@ Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** pa
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mintdunno&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintdunno&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mintdunno&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintdunno&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## Latest Blog Posts
 
@@ -51,4 +55,4 @@ Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** pa
 
 ## Thank You for Visiting!
 
-Thanks for stopping by! Feel free to explore my repositories and get in touch. Let's make something amazing together! 😊
+Thanks for stopping by! Feel free to explore my repositories and get in touch. Let's create something amazing together! 😊
