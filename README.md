@@ -25,13 +25,13 @@ Hey there! I'm **MinT**, a third-year **Software Engineering student** with a ze
 
 ## Projects
 
-### 🚀 [Project 1: Project Name](https://github.com/mintdunno/project1)
-- **Description**: A brief description of what this project does.
-- **Tech Stack**: Technologies used in this project.
+### 🚀 [Project 1: F2Learn](https://github.com/mintdunno/project1)
+- **Description**: An iOS app that all user can join and share their learning experiences.
+- **Tech Stack**: Swift.
 
-### 🌟 [Project 2: Project Name](https://github.com/mintdunno/project2)
-- **Description**: A brief description of what this project does.
-- **Tech Stack**: Technologies used in this project.
+### 🌟 [Project 2: HoverSprite](https://github.com/mintdunno/project2)
+- **Description**: A website for ording drone sprayers.
+- **Tech Stack**: html, css, js, spring, java, nodejs.
 
 ## Connect With Me
 
