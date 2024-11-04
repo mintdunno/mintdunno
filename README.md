@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mintdunno&color=blueviolet) ![Stars](https://img.shields.io/github/stars/mintdunno?style=social) ![Followers](https://img.shields.io/github/followers/mintdunno?style=social)
 
-![Header](https://mintheader.png) <!-- You can create a custom header image for more personality -->
+![Header](./https://mintheader.png) <!-- You can create a custom header image for more personality -->
 
 ## About Me
 
