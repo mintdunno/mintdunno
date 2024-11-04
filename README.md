@@ -10,7 +10,7 @@ Hey there! I'm **MinT**, a third-year **Software Engineering student** with a ze
 
 - 🌱 Currently diving into **JAVA and Embedded**.
 - 💡 Open to collaborating on **open source projects**.
-- 📫 Reach out: [youremail@example.com](mailto:s3911737@rmit.edu.vn)
+- 📫 Reach out: [s3911737@rmit.edu.vn](mailto:s3911737@rmit.edu.vn)
 - ⚡ Fun fact: **My name is MinT**
 
 ## Skills & Technologies
