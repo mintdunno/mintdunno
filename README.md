@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet) ![Stars](https://img.shields.io/github/stars/yourusername?style=social) ![Followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=mintdunno&color=blueviolet) ![Stars](https://img.shields.io/github/stars/mintdunno?style=social) ![Followers](https://img.shields.io/github/followers/mintdunno?style=social)
 
 ## About Me
 
@@ -23,11 +23,11 @@ Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** pa
 
 ## Projects
 
-### 🚀 [Project 1: Project Name](https://github.com/yourusername/project1)
+### 🚀 [Project 1: Project Name](https://github.com/mintdunno/project1)
 - **Description**: A brief description of what this project does.
 - **Tech Stack**: Technologies used in this project.
 
-### 🌟 [Project 2: Project Name](https://github.com/yourusername/project2)
+### 🌟 [Project 2: Project Name](https://github.com/mintdunno/project2)
 - **Description**: A brief description of what this project does.
 - **Tech Stack**: Technologies used in this project.
 
@@ -39,8 +39,8 @@ Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** pa
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mintdunno&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintdunno&layout=compact&theme=radical)
 
 ## Latest Blog Posts
 
