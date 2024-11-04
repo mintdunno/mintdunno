@@ -25,12 +25,12 @@ Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** wi
 
 ## Projects
 
-### 🚀 [Project 1: Project Name](https://github.com/mintdunno/project1)
-- **Description**: A brief description of what this project does.
+### 🚀 [Project 1: F2Learn](https://github.com/mintdunno/project1)
+- **Description**: An iOS app that every student can join and share their experiences.
 - **Tech Stack**: Technologies used in this project.
 
-### 🌟 [Project 2: Project Name](https://github.com/mintdunno/project2)
-- **Description**: A brief description of what this project does.
+### 🌟 [Project 2: HoverSprite](https://github.com/mintdunno/project2)
+- **Description**: A website to order drone sprayers.
 - **Tech Stack**: Technologies used in this project.
 
 ## Connect With Me
