@@ -1,21 +1,35 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Your Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
   
-  # Hello, I'm [Your Name] 👋
-  ### Full Stack Developer | Creative Coder | Digital Craftsman
+  # Hello World! I'm [Your Name] 👋
+  ### Software Engineering Student | Full Stack Developer | Tech Enthusiast
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 </div>
 
-## 🚀 About Me
-Passionate developer crafting digital experiences with clean code and creative solutions. I believe in the power of technology to transform ideas into reality.
+## 🎓 About Me
+- 🎯 3rd Year Software Engineering Student
+- 💻 Passionate about Web Development and System Architecture
+- 🌱 Currently exploring Cloud Computing and DevOps
+- 🚀 Always eager to learn new technologies
+- 🤝 Looking to collaborate on innovative projects
 
 ## 💻 Tech Stack
 ```javascript
-const skills = {
-    languages: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    frameworks: ["React", "Next.js", "Node.js", "Express"],
-    design: ["Tailwind CSS", "Figma", "Adobe XD"],
-    database: ["MongoDB", "PostgreSQL"],
-    tools: ["Git", "Docker", "VS Code", "Webpack"]
+const myTechStack = {
+    frontEnd: {
+        languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+        frameworks: ["React.js", "Next.js", "Tailwind CSS"],
+        design: ["Figma", "Adobe XD"]
+    },
+    backEnd: {
+        languages: ["Python", "Java", "Node.js"],
+        frameworks: ["Express.js", "Spring Boot", "Django"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"]
+    },
+    devOps: {
+        tools: ["Git", "Docker", "Jenkins"],
+        cloud: ["AWS", "Firebase", "Vercel"]
+    },
+    currentlyLearning: ["Kubernetes", "GraphQL", "System Design"]
 };
