@@ -2,16 +2,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mintdunno&color=blueviolet) ![Stars](https://img.shields.io/github/stars/mintdunno?style=social) ![Followers](https://img.shields.io/github/followers/mintdunno?style=social)
 
-![Header](./https://mintheader.png) <!-- You can create a custom header image for more personality -->
+![Header](./mintheader.png) 
 
 ## About Me
 
-Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** with a zest for creating innovative solutions and delving into the latest technologies. I thrive on challenges and am committed to making a positive impact in the tech world.
+Hey there! I'm **MinT**, a third-year **Software Engineering student** with a zest for creating innovative solutions and delving into the latest technologies. I thrive on challenges and am committed to making a positive impact in the tech world.
 
-- 🌱 Currently diving into **[Current Technology]**.
+- 🌱 Currently diving into **JAVA and Embedded**.
 - 💡 Open to collaborating on **open source projects**.
-- 📫 Reach out: [youremail@example.com](mailto:youremail@example.com)
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- 📫 Reach out: [youremail@example.com](mailto:s3911737@rmit.edu.vn)
+- ⚡ Fun fact: **My name is MinT**
 
 ## Skills & Technologies
 
@@ -25,12 +25,12 @@ Hey there! I'm **[Your Name]**, a third-year **Software Engineering student** wi
 
 ## Projects
 
-### 🚀 [Project 1: F2Learn](https://github.com/mintdunno/project1)
-- **Description**: An iOS app that every student can join and share their experiences.
+### 🚀 [Project 1: Project Name](https://github.com/mintdunno/project1)
+- **Description**: A brief description of what this project does.
 - **Tech Stack**: Technologies used in this project.
 
-### 🌟 [Project 2: HoverSprite](https://github.com/mintdunno/project2)
-- **Description**: A website to order drone sprayers.
+### 🌟 [Project 2: Project Name](https://github.com/mintdunno/project2)
+- **Description**: A brief description of what this project does.
 - **Tech Stack**: Technologies used in this project.
 
 ## Connect With Me
